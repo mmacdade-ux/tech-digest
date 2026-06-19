@@ -351,9 +351,13 @@ def send_resend(subject, html):
     req = urllib.request.Request(
         "https://api.resend.com/emails", data=payload,
         headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        body = r.read().decode()
-    print(f"Resend: HTTP {r.status} {body[:120]}")
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            print(f"Resend: HTTP {r.status} {r.read().decode()[:200]}")
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", "replace")
+        print(f"Resend send FAILED — HTTP {e.code}. Response:\n{body}", file=sys.stderr)
+        raise SystemExit(1)
 
 
 # ---------- main ----------
