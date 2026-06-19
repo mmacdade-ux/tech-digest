@@ -31,5 +31,8 @@ SECTION_CAP = 7
 # Only consider items published within this many hours.
 FRESHNESS_HOURS = 48
 
-RECIPIENT = "mmacdade@me.com"
+# Resend free tier (no verified domain) only delivers to the address the Resend
+# account was created with — here, m.macdade@griffith.edu.au. To send anywhere
+# else (me.com / gmail), verify a domain in Resend or recreate the account there.
+RECIPIENT = "m.macdade@griffith.edu.au"
 FROM_ADDR = "onboarding@resend.dev"
