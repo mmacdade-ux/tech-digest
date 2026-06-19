@@ -1,0 +1,37 @@
+name: Daily tech digest
+
+on:
+  schedule:
+    # 21:00 UTC = 07:00 Australia/Brisbane (no DST in QLD)
+    - cron: "0 21 * * *"
+  workflow_dispatch: {}   # run on demand from the Actions tab
+
+permissions:
+  contents: write          # GITHUB_TOKEN may commit the archive
+
+concurrency:
+  group: tech-digest
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build and send digest
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+        run: python3 scripts/build_digest.py
+
+      - name: Commit archive if changed
+        run: |
+          git config user.name "tech-digest-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Digest $(date -u +%F)"
+            git push
+          fi
