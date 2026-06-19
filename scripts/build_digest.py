@@ -350,7 +350,9 @@ def send_resend(subject, html):
     }).encode()
     req = urllib.request.Request(
         "https://api.resend.com/emails", data=payload,
-        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"})
+        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json",
+                 "Accept": "application/json", "User-Agent": UA})  # default urllib UA is
+        # Cloudflare-banned (error 1010) in front of api.resend.com; send a browser UA
     try:
         with urllib.request.urlopen(req, timeout=30) as r:
             print(f"Resend: HTTP {r.status} {r.read().decode()[:200]}")
