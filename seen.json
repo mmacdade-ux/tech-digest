@@ -119,6 +119,16 @@
     "source": "MacRumors",
     "title": "iPhone 18 Pro and Pro Max May See $200 Price Increase"
   },
+  "url:1d175ff2a98012b63380ce47d65b132134006570": {
+    "first_seen": "2026-06-28",
+    "source": "Hacker News",
+    "title": "GLM 5.2 beats Claude in our benchmarks"
+  },
+  "url:1e547629e2152e269173ab9bab3da9a15c9d2720": {
+    "first_seen": "2026-06-28",
+    "source": "Reddit",
+    "title": "America\u2019s data-centre backlash puts the AI boom at risk \u2014 Opposition is spreading across the country"
+  },
   "url:1ee1d2e2dd92070d2d1599f75178b7ef4e31e71d": {
     "first_seen": "2026-06-27",
     "source": "9to5Mac",
@@ -249,6 +259,11 @@
     "source": "The Verge",
     "title": "Hue\u2019s wired wall modules bring non-smart lights into its ecosystem"
   },
+  "url:387b68ac9975c34515304c8899ea0cc2247ab0b5": {
+    "first_seen": "2026-06-28",
+    "source": "Ars Technica",
+    "title": "Why did this journal retract two 1940s papers by Max Planck?"
+  },
   "url:38ac16d3ad22e31f89c678e749c2dc297d05cfbc": {
     "first_seen": "2026-06-24",
     "source": "Hacker News",
@@ -258,6 +273,11 @@
     "first_seen": "2026-06-19",
     "source": "9to5Mac",
     "title": "Apple Watch shipments surged 21% during Q1 2026, per report"
+  },
+  "url:39865b23a0f31b4cd049ccf2481fc12b3f2745f0": {
+    "first_seen": "2026-06-28",
+    "source": "The Verge",
+    "title": "The Cube is Jim Henson\u2019s little-known proto-Black Mirror masterpiece"
   },
   "url:3a905343d8ce92f3ae5cc150980a6b6d4c322a5f": {
     "first_seen": "2026-06-23",
@@ -313,6 +333,16 @@
     "first_seen": "2026-06-19",
     "source": "Engadget",
     "title": "Doom composer Bobby Prince has died"
+  },
+  "url:47397788815517c00d3422d4981a2c577f7c05e8": {
+    "first_seen": "2026-06-28",
+    "source": "Reddit",
+    "title": "MSI Claw 8 EX AI+ review: Big money for big performance"
+  },
+  "url:4742031cbf0b5ac42627f3492b061e8efdd16656": {
+    "first_seen": "2026-06-28",
+    "source": "Engadget",
+    "title": "5 easy ways to get more range out of your EV"
   },
   "url:478295e6eb6c9073704aeec813a8ef63026167c2": {
     "first_seen": "2026-06-25",
@@ -389,6 +419,11 @@
     "source": "9to5Mac",
     "title": "LastPass notifies users of yet another data breach"
   },
+  "url:52ea534f6016c74749d3a5a46b5c41dd97e10f62": {
+    "first_seen": "2026-06-28",
+    "source": "9to5Mac",
+    "title": "AI-generated knockoffs of Joanna Stern\u2019s book keep appearing on Apple Books"
+  },
   "url:52f9682b8911db055f05a84c62be906d9623080a": {
     "first_seen": "2026-06-22",
     "source": "Reddit",
@@ -459,10 +494,20 @@
     "source": "RTINGS",
     "title": "Shark BreatheClear Compact Pro HP062 Air Purifier Review"
   },
+  "url:601f0de314a33b892084c9fc01078bd152c239dd": {
+    "first_seen": "2026-06-28",
+    "source": "Reddit",
+    "title": "Has anyone else noticed an increase in Ryzen 5 CPUs failing with WHEA-Logger Event ID 18?"
+  },
   "url:60bd86517cc19732e5ab53c0cab96e1e12168686": {
     "first_seen": "2026-06-26",
     "source": "Reddit",
     "title": "Microsoft built supercomputer to help OpenAI infringe copyrights, NYT alleged"
+  },
+  "url:611a61dec5f453a5e8ffe31227eab99bc52de60a": {
+    "first_seen": "2026-06-28",
+    "source": "9to5Mac",
+    "title": "Indie App Spotlight: \u2018Mirage\u2019 brings your Mac display to iPad and more with retina quality"
   },
   "url:61c18f7dcd1da29869d36222217b3923fad6be4a": {
     "first_seen": "2026-06-21",
@@ -564,6 +609,11 @@
     "source": "9to5Mac",
     "title": "Bear app developers announce Lettera, a beautiful Markdown editor for Mac"
   },
+  "url:7698252e3b8819c3e0e138ad62ff599e8aecb861": {
+    "first_seen": "2026-06-28",
+    "source": "Reddit",
+    "title": "Ford rehires \u2018gray beard\u2019 engineers after AI falls short"
+  },
   "url:76e698c8a6e16db2ddcf7326eceab96fd2fcfd5f": {
     "first_seen": "2026-06-20",
     "source": "9to5Mac",
@@ -593,6 +643,11 @@
     "first_seen": "2026-06-24",
     "source": "Reddit",
     "title": "iPhone 18 Pro might cost less than expected, per report"
+  },
+  "url:7a8c889e7f90c9986118ebb27110d2359fcdd3a4": {
+    "first_seen": "2026-06-28",
+    "source": "9to5Mac",
+    "title": "How to create a macOS Golden Gate USB install drive [Video]"
   },
   "url:7c00db1f5efb480742aacfdfff317417254302db": {
     "first_seen": "2026-06-26",
@@ -714,6 +769,11 @@
     "source": "9to5Mac",
     "title": "Apple @ Work: Deploying a new PC made me appreciate everything Apple built into macOS"
   },
+  "url:9892b45c79c0e55c50a0ce80321e05bc9e56eb4c": {
+    "first_seen": "2026-06-28",
+    "source": "9to5Mac",
+    "title": "MagSafe battery banks: Best picks for your iPhone 17, iPhone Air, and more"
+  },
   "url:98af08ab4bf6b692e63afd05af0a43fdb1a01dbe": {
     "first_seen": "2026-06-19",
     "source": "Engadget",
@@ -783,6 +843,11 @@
     "first_seen": "2026-06-20",
     "source": "Reddit",
     "title": "SK hynix Ships Samples of 12-Layer Next-Gen HBM4E"
+  },
+  "url:a8eca5f914c33e0b2a20b4b9e7bbd430b15387f2": {
+    "first_seen": "2026-06-28",
+    "source": "The Verge",
+    "title": "China claims the world\u2019s fastest supercomputer"
   },
   "url:a932cb61d72f5f3c8a6af46b468e71be05fbc836": {
     "first_seen": "2026-06-19",
@@ -874,6 +939,11 @@
     "source": "Reddit",
     "title": "Morale is so bad at Mark Zuckerberg's Meta even the company's own CTO admits it's 'probably the worst it's ever been'"
   },
+  "url:c09e447fce121165681e44cba1ceabb5f76d6052": {
+    "first_seen": "2026-06-28",
+    "source": "The Verge",
+    "title": "Suno launches Spark incubator program to feed independent artists to its AI machine"
+  },
   "url:c3c55519ac875f1748a600298f03fc74c994594a": {
     "first_seen": "2026-06-23",
     "source": "Reddit",
@@ -904,6 +974,16 @@
     "source": "Engadget",
     "title": "The most popular Grok feature is, apparently, exactly what you think"
   },
+  "url:cab3559cdd3a004ed213f71bb513552096cf4874": {
+    "first_seen": "2026-06-28",
+    "source": "Reddit",
+    "title": "Cops Caught Using AI to Edit Picture of Pathetic Drug Bust"
+  },
+  "url:cbe94a4443acce1eaa2a18ea8e2391f139f3031a": {
+    "first_seen": "2026-06-28",
+    "source": "Engadget",
+    "title": "Australia doubles the maximum penalty for its social media ban"
+  },
   "url:cdc4b9cd018aa8ad93e72e4fa35636a390dac437": {
     "first_seen": "2026-06-20",
     "source": "Reddit",
@@ -913,6 +993,11 @@
     "first_seen": "2026-06-26",
     "source": "RTINGS",
     "title": "Samsung ME17R7021ES Microwave Review"
+  },
+  "url:cfae93e68b5901b9f04454113b1b9160201ef573": {
+    "first_seen": "2026-06-28",
+    "source": "9to5Mac",
+    "title": "Apple working on M7 Ultra Mac Studio for 2028 with potential major upgrade: report"
   },
   "url:d017153f16176396fda60ce21e1cb20f7d6033c4": {
     "first_seen": "2026-06-19",
@@ -1044,6 +1129,11 @@
     "source": "9to5Mac",
     "title": "WhatsApp tests new animated message bubbles on iPhone"
   },
+  "url:e681435dc393a31a03e71842dc1ebb1ecb967ebe": {
+    "first_seen": "2026-06-28",
+    "source": "MacRumors",
+    "title": "Missed Prime Day? You Can Still Grab Record Low Apple Discounts This Weekend"
+  },
   "url:e884a7beab5bd2576aa62162ef9b19eb79528e48": {
     "first_seen": "2026-06-26",
     "source": "RTINGS",
@@ -1053,6 +1143,11 @@
     "first_seen": "2026-06-19",
     "source": "RTINGS",
     "title": "Saucony Endorphin Elite 3 Running Shoe Review"
+  },
+  "url:eae89e893ed9324b11ac7d878901240ee02a249f": {
+    "first_seen": "2026-06-28",
+    "source": "9to5Mac",
+    "title": "How to watch the Formula 1 race for free right now"
   },
   "url:eb8f4992d1105a7c34bcb2c4b2b50cc06cce7003": {
     "first_seen": "2026-06-22",
@@ -1093,6 +1188,11 @@
     "first_seen": "2026-06-19",
     "source": "MacRumors",
     "title": "The MacRumors Show: Hands-On With iOS 27, Brutal watchOS 27 Cuts, and More"
+  },
+  "url:f5909d41e9bb196dfee610122063950eff898123": {
+    "first_seen": "2026-06-28",
+    "source": "Engadget",
+    "title": "Apple's touchscreen MacBook reportedly won't wait for the M7 chips"
   },
   "url:f6000804f5ade85e19c437244514d6abdd39c14c": {
     "first_seen": "2026-06-21",
@@ -1138,6 +1238,11 @@
     "first_seen": "2026-06-20",
     "source": "Engadget",
     "title": "Claude Guillemot, one of Ubisoft's co-founders, has died in a plane crash"
+  },
+  "url:fe22cd85c059c8fc59cb37556590e3a26a45206f": {
+    "first_seen": "2026-06-28",
+    "source": "Hacker News",
+    "title": "Librepods: AirPods liberated"
   },
   "url:ff321c1f2ab24b2dc33ab52195dc4f5cc5bd2af1": {
     "first_seen": "2026-06-27",
