@@ -119,6 +119,11 @@
     "source": "9to5Mac",
     "title": "Judge agrees to set aside default entered against Jon Prosser in Apple lawsuit"
   },
+  "url:148c429e0097c7d33a74b1d0fc4d815851e4f292": {
+    "first_seen": "2026-07-03",
+    "source": "Reddit",
+    "title": "[Hardware Canucks] Noctua AIOs vs Arctic Liquid Freezer III Pro - Extended review"
+  },
   "url:1495b5c27cc461fac0fa81a0131832e56289f89b": {
     "first_seen": "2026-06-22",
     "source": "Hacker News",
@@ -209,6 +214,11 @@
     "source": "Ars Technica",
     "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency"
   },
+  "url:226c6af4773a4385e6d539daa32b0c495fea166f": {
+    "first_seen": "2026-07-03",
+    "source": "9to5Mac",
+    "title": "We really need a way to hand over ownership of an Apple Home"
+  },
   "url:22866251fdab4b1e0af7a1564108ffd957537bc0": {
     "first_seen": "2026-06-22",
     "source": "Ars Technica",
@@ -258,6 +268,11 @@
     "first_seen": "2026-06-19",
     "source": "Reddit",
     "title": "Frontier Airlines is leaking your passport and credit card details from a boarding pass"
+  },
+  "url:2d7809841864a1484bc1f7b303ed3347d2aff71a": {
+    "first_seen": "2026-07-03",
+    "source": "The Verge",
+    "title": "While you\u2019re watching the World Cup, the feds may be watching you"
   },
   "url:2e3f710024d0d0d2904488d20ce52a313d540234": {
     "first_seen": "2026-06-27",
@@ -604,6 +619,11 @@
     "source": "Reddit",
     "title": "French retailer mocks \u20ac1039 Steam Machine with \u201cStim Machine\u201d RX 9060 XT PC for \u20ac999"
   },
+  "url:55636b61462c44ae1ff37ed3ab31f817c35fc712": {
+    "first_seen": "2026-07-03",
+    "source": "Engadget",
+    "title": "International Google Pixels are different than American models - here's how"
+  },
   "url:568d356a2f41e0cc0c526528a626540f0521705d": {
     "first_seen": "2026-06-25",
     "source": "The Verge",
@@ -668,6 +688,11 @@
     "first_seen": "2026-07-02",
     "source": "9to5Mac",
     "title": "M7 chip coming sooner than expected, visionOS 27 features, Ask9to5Mac"
+  },
+  "url:5d02865df76830a735a18d45850743f33b7f8ffd": {
+    "first_seen": "2026-07-03",
+    "source": "MacRumors",
+    "title": "Apple Already Testing iOS 27.4"
   },
   "url:5ee5933d48b77db7aed2dde39207e3ed610a7226": {
     "first_seen": "2026-06-25",
@@ -738,6 +763,11 @@
     "first_seen": "2026-06-24",
     "source": "9to5Mac",
     "title": "iOS 27 beta 2: Apple tells Siri AI to clearly refuse requests to summarize URLs"
+  },
+  "url:681b456687af68ecadd1c7e27a96f708138dbb5e": {
+    "first_seen": "2026-07-03",
+    "source": "Reddit",
+    "title": "Microsoft warns Authenticator now blocks rooted Android and jailbroken iOS, verify if you're affected"
   },
   "url:6877233179ce7376bff8aaec60051fcd66cab8e6": {
     "first_seen": "2026-06-29",
@@ -904,6 +934,11 @@
     "source": "Engadget",
     "title": "Anthropic's new Sonnet 5 model is better at the tasks that are running up enterprise bills"
   },
+  "url:7a491486933a81e048de81ac13465d176d252e64": {
+    "first_seen": "2026-07-03",
+    "source": "MacRumors",
+    "title": "iOS 27 Beta Hints at New Apple Product Such as 'AirPods Ultra'"
+  },
   "url:7a8c889e7f90c9986118ebb27110d2359fcdd3a4": {
     "first_seen": "2026-06-28",
     "source": "9to5Mac",
@@ -918,6 +953,11 @@
     "first_seen": "2026-06-26",
     "source": "9to5Mac",
     "title": "Apple will launch 15+ new products this fall, here\u2019s what\u2019s coming"
+  },
+  "url:7c42d05934575b4ca586a65bd78d84327894bd4f": {
+    "first_seen": "2026-07-03",
+    "source": "9to5Mac",
+    "title": "Which iPad is right for you? Here\u2019s what Apple has to say"
   },
   "url:7e32ef097cb8cfa99b0cfc909daa15e4417f05d0": {
     "first_seen": "2026-06-29",
@@ -949,10 +989,20 @@
     "source": "MacRumors",
     "title": "Prime Day Brings Major Deals on Headphones and Speakers From Popular Brands"
   },
+  "url:8143e32e7b9754e4852bbc77baa930fc69babe89": {
+    "first_seen": "2026-07-03",
+    "source": "MacRumors",
+    "title": "Sketchy Rumor Claims Apple Watch Series 12 Could Introduce Sensor in Band"
+  },
   "url:81d1b30f328b7735f8a2fa41f2bec2ac0fdf2cf4": {
     "first_seen": "2026-06-29",
     "source": "9to5Mac",
     "title": "OpenClaw just launched an official app for iPhone, details here"
+  },
+  "url:82b41ad4fb6b5814731ce9687850988d4d0c7704": {
+    "first_seen": "2026-07-03",
+    "source": "The Verge",
+    "title": "Amazon updated 2023\u2019s Fire HD 10 tablet with 4GB of RAM"
   },
   "url:84cdef0244b33306b74c30e5200ce99d6e6a4004": {
     "first_seen": "2026-06-25",
@@ -1104,6 +1154,11 @@
     "source": "Engadget",
     "title": "NASA's Swift Boost mission will launch later this month to rescue a falling telescope"
   },
+  "url:9c3d237fe257617684616d48494e876831ff512f": {
+    "first_seen": "2026-07-03",
+    "source": "RTINGS",
+    "title": "Blueair Blue Signature Small Air Purifier Review"
+  },
   "url:9cd1a4ebf438e6af24b3633d4688d1647457e4d7": {
     "first_seen": "2026-06-27",
     "source": "Engadget",
@@ -1118,6 +1173,11 @@
     "first_seen": "2026-06-29",
     "source": "Ars Technica",
     "title": "South Korea to spend $1T on more memory chip production and humanoid robots"
+  },
+  "url:a1ea37f6a71abfc474dad3d2ab1eaf0085afc066": {
+    "first_seen": "2026-07-03",
+    "source": "Engadget",
+    "title": "Amazon's Fire HD 10 tablet just got a refresh with a bit more RAM"
   },
   "url:a1faae83120b0423aca2a08b574405def5ec2e19": {
     "first_seen": "2026-06-26",
@@ -1138,6 +1198,11 @@
     "first_seen": "2026-06-19",
     "source": "MacRumors",
     "title": "Apple Music Reveals Top 20 Most-Streamed Artists of All Time"
+  },
+  "url:a5db7bfc8be232027b92eaaeb539b379eb90d9c3": {
+    "first_seen": "2026-07-03",
+    "source": "Reddit",
+    "title": "Meta's solution to the global memory shortage is to use DDR4 in a DDR5 server, with a custom chip making the impossible possible"
   },
   "url:a5f5cf67b085a9c6a205ea038723431464f0cc1d": {
     "first_seen": "2026-06-30",
@@ -1178,6 +1243,11 @@
     "first_seen": "2026-06-22",
     "source": "Ars Technica",
     "title": "GM installs robots at flagship EV factory after laying off 1,300 workers"
+  },
+  "url:a9b509fd14f77553e3e38fa1945ed20fa5b3686a": {
+    "first_seen": "2026-07-03",
+    "source": "MacRumors",
+    "title": "iPhone 18 With 9GB RAM Still Won't Support Two New iOS 27 Features"
   },
   "url:aa0fac06aa8857ea3de93f85a11eb94cf8078cc8": {
     "first_seen": "2026-07-02",
@@ -1289,6 +1359,11 @@
     "source": "RTINGS",
     "title": "Jabra Evolve3 85 Headphones Review"
   },
+  "url:bddfe525f99bb24f767769ef7a500e32277a10d4": {
+    "first_seen": "2026-07-03",
+    "source": "RTINGS",
+    "title": "Anker Nebula Mars 3 Air Projector Review"
+  },
   "url:c05662716cce83190cba7900292c3b02adb6a6d4": {
     "first_seen": "2026-06-20",
     "source": "Reddit",
@@ -1343,6 +1418,11 @@
     "first_seen": "2026-06-28",
     "source": "Reddit",
     "title": "Cops Caught Using AI to Edit Picture of Pathetic Drug Bust"
+  },
+  "url:cb655c1342aaabe210bc34a08d302d0d6db8bacd": {
+    "first_seen": "2026-07-03",
+    "source": "Reddit",
+    "title": "Mark Zuckerberg Just Got Rather Badly Humiliated"
   },
   "url:cbe94a4443acce1eaa2a18ea8e2391f139f3031a": {
     "first_seen": "2026-06-28",
@@ -1419,6 +1499,11 @@
     "source": "Ars Technica",
     "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit"
   },
+  "url:d4db7dff1c9b0b74edcdd60b9e625785e80d3e51": {
+    "first_seen": "2026-07-03",
+    "source": "Reddit",
+    "title": "Tom's Hardware: \"SK hynix, Samsung, Micron among semiconductor industry group lobbying against government intervention on domestic memory chip supply - says move would worsen situation, suggests tax deductions on consumer electronics instead\""
+  },
   "url:d528d53cca1308842f99b5e02ab0a23cb7b833ec": {
     "first_seen": "2026-06-19",
     "source": "RTINGS",
@@ -1449,6 +1534,11 @@
     "source": "RTINGS",
     "title": "Winix C909 Air Purifier Review"
   },
+  "url:db091254f1a19e30b16608fcaa0d928b27dc490a": {
+    "first_seen": "2026-07-03",
+    "source": "RTINGS",
+    "title": "Sony INZONE H6 Air Headphones Review"
+  },
   "url:db82ed0fc5af4c03576091fd0d4ece32a733f996": {
     "first_seen": "2026-06-24",
     "source": "Hacker News",
@@ -1474,10 +1564,25 @@
     "source": "Reddit",
     "title": "Apple Creator Studio gets smarter, faster, and more connected"
   },
+  "url:dde5e6ff22d29bacbab4fefc01c04a548bf98477": {
+    "first_seen": "2026-07-03",
+    "source": "Reddit",
+    "title": "Tesla Caps Employee AI Spend at $200 per Week After Adoption Push"
+  },
   "url:ddfe95b35cd32a6b08b3401a9a1acbdbe6f75f9d": {
     "first_seen": "2026-06-26",
     "source": "The Verge",
     "title": "Our favorite Prime Day gadgets under $100 you don\u2019t need but will really want"
+  },
+  "url:dead86bfeaa1ab0b956cd2f43ea4a891ebf05ab6": {
+    "first_seen": "2026-07-03",
+    "source": "Engadget",
+    "title": "The Space Shuttle Endeavour goes on public display later this year"
+  },
+  "url:dfd19700cd73f32f244a8b2929fa4ff9ad7d5143": {
+    "first_seen": "2026-07-03",
+    "source": "Reddit",
+    "title": "Rural Americans say they're worried AI data centers will drain their wallets"
   },
   "url:dff45d676608d204cc1bbd6676c7e7068e6252aa": {
     "first_seen": "2026-06-19",
@@ -1498,6 +1603,11 @@
     "first_seen": "2026-06-22",
     "source": "Engadget",
     "title": "iOS 27 beta 2 is out now, here's what's new"
+  },
+  "url:e1f373dfb833b48c2686efbbef0862d69bad1507": {
+    "first_seen": "2026-07-03",
+    "source": "The Verge",
+    "title": "This slim camera has a transparent LCD screen for a viewfinder"
   },
   "url:e2c24e445278824226b3c45c96a57980648d33d0": {
     "first_seen": "2026-06-19",
@@ -1543,6 +1653,11 @@
     "first_seen": "2026-06-19",
     "source": "RTINGS",
     "title": "Saucony Endorphin Elite 3 Running Shoe Review"
+  },
+  "url:ea26e7222efdc672ed0fe93f005dad803261a839": {
+    "first_seen": "2026-07-03",
+    "source": "Engadget",
+    "title": "How to watch Summer Games Done Quick 2026"
   },
   "url:ea5affb3ec4e3d782a2c705f59a1387330f42306": {
     "first_seen": "2026-07-02",
@@ -1658,6 +1773,11 @@
     "first_seen": "2026-06-19",
     "source": "9to5Mac",
     "title": "Apple\u2019s M6 chip launches this fall, with these new products rumored"
+  },
+  "url:faa506c46ee8663d680743ebfa428dff87826162": {
+    "first_seen": "2026-07-03",
+    "source": "MacRumors",
+    "title": "The MacRumors Show: Latest iPhone 18 Pro Leaks and Rumors"
   },
   "url:fab5136cd04eaee09b98519bcc51f7239ad6df40": {
     "first_seen": "2026-06-22",
