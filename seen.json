@@ -469,6 +469,11 @@
     "source": "The Verge",
     "title": "While you\u2019re watching the World Cup, the feds may be watching you"
   },
+  "url:2de3ed1c8cbabe3a9f037561651b49cd2a254830": {
+    "first_seen": "2026-07-13",
+    "source": "The Verge",
+    "title": "A two-pack of DJI\u2019s most capable wireless mics just got its first price cut"
+  },
   "url:2e07ab0932ec8d37144bbfb309c4e8e919696548": {
     "first_seen": "2026-07-06",
     "source": "Engadget",
@@ -684,6 +689,11 @@
     "source": "Hacker News",
     "title": "Every new car sold in the European Union must include a driver monitoring camera"
   },
+  "url:3afd6b2e3163b1b6a824081257c287cd84d7974e": {
+    "first_seen": "2026-07-13",
+    "source": "9to5Mac",
+    "title": "watchOS 27 public beta is here with Siri AI and smarter Apple Watch features"
+  },
   "url:3b155487f864d84e4813c70334b70a119e4ca5a8": {
     "first_seen": "2026-06-19",
     "source": "9to5Mac",
@@ -698,6 +708,11 @@
     "first_seen": "2026-07-08",
     "source": "Engadget",
     "title": "Elon Musk says X will DM you about posts that receive a Community Note"
+  },
+  "url:3ea32098d2b90ffcf09f708d7538856ecce5adaf": {
+    "first_seen": "2026-07-13",
+    "source": "Hacker News",
+    "title": "Telegram's t.me domain has been suspended"
   },
   "url:3f9c6e4be1a042d7992533004ed9c5145021bcd6": {
     "first_seen": "2026-07-05",
@@ -824,10 +839,20 @@
     "source": "Reddit",
     "title": "Intel Raptor Lake CPU bugs"
   },
+  "url:494f6235c7e619973c3e96c34a5f07503b69114d": {
+    "first_seen": "2026-07-13",
+    "source": "Reddit",
+    "title": "SpaceX Stock Plunges to All-Time Low After Competitor Makes Major Leap"
+  },
   "url:49ae85275034e3fba08e6e72a12d92de75fa3155": {
     "first_seen": "2026-06-19",
     "source": "9to5Mac",
     "title": "Drake, Taylor Swift, and Future are the 3 most streamed artists in Apple Music history"
+  },
+  "url:49ca22c913205db58dce56f38fc42fe46b36bbfd": {
+    "first_seen": "2026-07-13",
+    "source": "Engadget",
+    "title": "Public betas for iOS 27, macOS 27 and more Apple platforms are now available"
   },
   "url:4a1ff7450100b4fe1214d9ca5cd27d0c9890759d": {
     "first_seen": "2026-06-30",
@@ -838,6 +863,11 @@
     "first_seen": "2026-07-12",
     "source": "Reddit",
     "title": "The Death of the Status Update: Why 55% of Americans Stopped Posting on Social Media"
+  },
+  "url:4bb6bff2e84a6de914803d12c5c9d77292875bb5": {
+    "first_seen": "2026-07-13",
+    "source": "9to5Mac",
+    "title": "tvOS 27 and HomePod 27 public betas now available, here\u2019s what\u2019s new"
   },
   "url:4bd59d5d75bbbe40a1d1d6d12b43077afe562de5": {
     "first_seen": "2026-06-19",
@@ -924,6 +954,11 @@
     "source": "Hacker News",
     "title": "Prefer strict tables in SQLite"
   },
+  "url:51d11b28003a13c740b4966db25bc84cfde6bc11": {
+    "first_seen": "2026-07-13",
+    "source": "Reddit",
+    "title": "First macOS Golden Gate Public Beta Now Available"
+  },
   "url:52a3c7224b05a3be3d20ba0c833f51ef295c791f": {
     "first_seen": "2026-06-23",
     "source": "9to5Mac",
@@ -979,6 +1014,11 @@
     "source": "Engadget",
     "title": "International Google Pixels are different than American models - here's how"
   },
+  "url:5687248d4bb6507dbb8449cc2afa781f7354fd55": {
+    "first_seen": "2026-07-13",
+    "source": "9to5Mac",
+    "title": "Apple rolls out revised beta 3 builds for iPadOS 27 and macOS 27 Golden Gate"
+  },
   "url:568d356a2f41e0cc0c526528a626540f0521705d": {
     "first_seen": "2026-06-25",
     "source": "The Verge",
@@ -1018,6 +1058,11 @@
     "first_seen": "2026-06-29",
     "source": "Reddit",
     "title": "Apple 'Concerned' Over iPhone 18 Pro Data Leak From Supplier Tata"
+  },
+  "url:58f23837338d2e78498dd16881a003163400a1cd": {
+    "first_seen": "2026-07-13",
+    "source": "The Verge",
+    "title": "Apple\u2019s public betas for iOS 27 and more are out now"
   },
   "url:590969619c559b4634327fa88fc662d1d1ffa6fe": {
     "first_seen": "2026-06-19",
@@ -1074,6 +1119,11 @@
     "source": "MacRumors",
     "title": "Apple Already Testing iOS 27.4"
   },
+  "url:5d8808873f5102f9e6f34743173aa28a5c7b44f6": {
+    "first_seen": "2026-07-13",
+    "source": "Hacker News",
+    "title": "Climate.gov was destroyed. Open data saved it"
+  },
   "url:5ee5933d48b77db7aed2dde39207e3ed610a7226": {
     "first_seen": "2026-06-25",
     "source": "9to5Mac",
@@ -1098,6 +1148,11 @@
     "first_seen": "2026-06-26",
     "source": "Reddit",
     "title": "Microsoft built supercomputer to help OpenAI infringe copyrights, NYT alleged"
+  },
+  "url:61103add51c988408a6261a624cb905a322dfcb1": {
+    "first_seen": "2026-07-13",
+    "source": "The Verge",
+    "title": "The Shokz OpenRun Pro are the cheapest they\u2019ve been since January"
   },
   "url:611a61dec5f453a5e8ffe31227eab99bc52de60a": {
     "first_seen": "2026-06-28",
@@ -1138,6 +1193,11 @@
     "first_seen": "2026-06-30",
     "source": "Hacker News",
     "title": "I built a mmWave material classification radar (2025)"
+  },
+  "url:6424fd2b390f09fd940deaec39bac99517d4238c": {
+    "first_seen": "2026-07-13",
+    "source": "Engadget",
+    "title": "Microsoft is making the Windows Search Box more streamlined and useful"
   },
   "url:6486df17745ebb50cd581e133c605a29c24ec471": {
     "first_seen": "2026-07-10",
@@ -1224,6 +1284,11 @@
     "source": "9to5Mac",
     "title": "Report: iPhone Ultra to have incredibly limited availability at launch, may ship slightly later"
   },
+  "url:6bd379607429d00a52ddd097ff8a6df58b5196ec": {
+    "first_seen": "2026-07-13",
+    "source": "Reddit",
+    "title": "iOS 27 and iPadOS 27 Now Available to Public Beta Testers"
+  },
   "url:6cfa9c389c33c9c7494b98c6d80d1c7263681de1": {
     "first_seen": "2026-07-12",
     "source": "Engadget",
@@ -1269,6 +1334,11 @@
     "source": "Engadget",
     "title": "Mamdani announces new Click-to-Cancel rule for New York City"
   },
+  "url:6fe6c6b082c2cc7c1500c9daae7d65b630ed1535": {
+    "first_seen": "2026-07-13",
+    "source": "The Verge",
+    "title": "The Pixel colors might rule this year"
+  },
   "url:7048b0f9a2cd2370165a416443bb77265396cc22": {
     "first_seen": "2026-07-06",
     "source": "Reddit",
@@ -1278,6 +1348,11 @@
     "first_seen": "2026-07-08",
     "source": "9to5Mac",
     "title": "iOS 27 adds nine new languages and accents to Apple Translate"
+  },
+  "url:708ed0c0f22302e10741dd623a01c288ca0f4b61": {
+    "first_seen": "2026-07-13",
+    "source": "RTINGS",
+    "title": "PUMA Fast-FWD NITRO Elite 2 Running Shoe Review"
   },
   "url:70bc1c6a745cf5a50105f0736ba9458fd392c219": {
     "first_seen": "2026-07-04",
@@ -1313,6 +1388,11 @@
     "first_seen": "2026-06-21",
     "source": "Reddit",
     "title": "SpaceX handed lowest possible ESG rating by MSCI"
+  },
+  "url:72c87b450d1d5b39082b593269833e969a8fe15b": {
+    "first_seen": "2026-07-13",
+    "source": "RTINGS",
+    "title": "Dyson Purifier Cool PC1 Air Purifier Review"
   },
   "url:72e260ce45228391adfc43f59f91382dfddd9ca7": {
     "first_seen": "2026-06-19",
@@ -1464,6 +1544,11 @@
     "source": "9to5Mac",
     "title": "Which iPad is right for you? Here\u2019s what Apple has to say"
   },
+  "url:7c83da2126a3e11c91e83f6826378d6bd33601c4": {
+    "first_seen": "2026-07-13",
+    "source": "9to5Mac",
+    "title": "macOS 27 public beta now available, here\u2019s how to install it"
+  },
   "url:7e278e3c84d06e75a256470ab7747e8ded746f81": {
     "first_seen": "2026-07-07",
     "source": "MacRumors",
@@ -1473,6 +1558,16 @@
     "first_seen": "2026-06-29",
     "source": "The Verge",
     "title": "T-Mobile is booting customers from its oldest plans"
+  },
+  "url:7efdff3d26525ef52eaac077b48c51ebba84a2d7": {
+    "first_seen": "2026-07-13",
+    "source": "Reddit",
+    "title": "Sony Is Reportedly Avoiding Using Liquid Metal For PS6 Cooling"
+  },
+  "url:7f45897cf04dd2bf596fd173f2e0f94515405f19": {
+    "first_seen": "2026-07-13",
+    "source": "The Verge",
+    "title": "OnePlus is reportedly bailing on the US"
   },
   "url:7f6cd878ea31a5875e981dbcc0ede108f30176aa": {
     "first_seen": "2026-07-10",
@@ -1613,6 +1708,11 @@
     "first_seen": "2026-06-19",
     "source": "Reddit",
     "title": "California \u2018billionaire tax\u2019 makes ballot despite opposition from tech moguls"
+  },
+  "url:8b76dba79f386a1b70be296434d837b6f7b56a4c": {
+    "first_seen": "2026-07-13",
+    "source": "9to5Mac",
+    "title": "iOS 27 public beta is here with Siri AI, iPhone speed upgrades, and more"
   },
   "url:8b941fa03abb9ae47360bb56a147aa48e143f072": {
     "first_seen": "2026-06-22",
@@ -1874,6 +1974,11 @@
     "source": "Reddit",
     "title": "Flock Cameras Screw Up, Swarm Innocent Man With Armed Police"
   },
+  "url:a5bc88f99063f5995546e89ae4dc8d268cc67d7c": {
+    "first_seen": "2026-07-13",
+    "source": "Reddit",
+    "title": "Oracle\u2019s Nearly 50% Crash Since June 1 Plunges Larry Ellison From No. 2 to No. 8 in Billionaire Ranks"
+  },
   "url:a5db7bfc8be232027b92eaaeb539b379eb90d9c3": {
     "first_seen": "2026-07-03",
     "source": "Reddit",
@@ -2063,6 +2168,11 @@
     "first_seen": "2026-07-11",
     "source": "9to5Mac",
     "title": "Indie App Spotlight: \u2018Route 25\u2019 is an all-in-one social app for Pok\u00e9mon collectors"
+  },
+  "url:b44c58173a659dc5de5526f7c91425dc2e4ef505": {
+    "first_seen": "2026-07-13",
+    "source": "9to5Mac",
+    "title": "Apple releases iPadOS 27 public beta, here\u2019s what\u2019s new"
   },
   "url:b5d19d55b60176231164935433c83a0369aafee6": {
     "first_seen": "2026-07-11",
@@ -2748,6 +2858,11 @@
     "first_seen": "2026-07-05",
     "source": "9to5Mac",
     "title": "iPhone 17 Pro Max buried in America\u2019s 250th anniversary time capsule: to be opened in 2276"
+  },
+  "url:f9663208048005a67e7348c603eba1e6d5ea9c5b": {
+    "first_seen": "2026-07-13",
+    "source": "9to5Mac",
+    "title": "9to5Mac Daily: July 13, 2026 \u2013 Apple sues OpenAI"
   },
   "url:fa144f1f732f091218a0eca83fee5f4869674b7a": {
     "first_seen": "2026-06-19",
