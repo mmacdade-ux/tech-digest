@@ -69,6 +69,11 @@
     "source": "Reddit",
     "title": "Americans hate AI so much that politicians are starting to lose their jobs over it"
   },
+  "url:04a96e01217fbdf38ee7c8a2afbad71c75b26ba8": {
+    "first_seen": "2026-08-03",
+    "source": "MacRumors",
+    "title": "Apple's Next CEO Adds Retired Hardware Executive to His Team"
+  },
   "url:04dbd32a29a396e911147a8ada73acb93cec9e43": {
     "first_seen": "2026-07-09",
     "source": "Engadget",
@@ -183,6 +188,11 @@
     "first_seen": "2026-07-02",
     "source": "The Verge",
     "title": "Weber marks down grills and griddles to their best prices ever for July 4th"
+  },
+  "url:0aa0aa0e6fc9503355581192ceaa0fb6704f6d73": {
+    "first_seen": "2026-08-03",
+    "source": "RTINGS",
+    "title": "Bose Lifestyle Ultra Speaker Speaker Review"
   },
   "url:0b24f2429e3e58382b6bd3e3f51fea0fd676b506": {
     "first_seen": "2026-06-26",
@@ -303,6 +313,11 @@
     "first_seen": "2026-07-19",
     "source": "The Verge",
     "title": "This unpronounceable series of glyphs is an incredible side project from Kieran Hebden (aka Four Tet)"
+  },
+  "url:109216a3d979ea3363d02916d4ab7d5af87b70ef": {
+    "first_seen": "2026-08-03",
+    "source": "Hacker News",
+    "title": "Devtools must be open source"
   },
   "url:109504237ee8dc5ab0e422af607c4fb3c4f50c89": {
     "first_seen": "2026-07-01",
@@ -909,6 +924,11 @@
     "source": "Ars Technica",
     "title": "Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?"
   },
+  "url:2dde58afb50f92c3836339c6fd1b1b87d90877a0": {
+    "first_seen": "2026-08-03",
+    "source": "9to5Mac",
+    "title": "Report: Apple\u2019s secrecy efforts partly undermined by lax work iCloud policy"
+  },
   "url:2de3ed1c8cbabe3a9f037561651b49cd2a254830": {
     "first_seen": "2026-07-13",
     "source": "The Verge",
@@ -1119,6 +1139,11 @@
     "source": "9to5Mac",
     "title": "MagSafe Monday: ESR FlickLock solved my biggest complaints with the AirPods Pro 3"
   },
+  "url:3571bd46586ae67f68d90eb7d0da187884ebf056": {
+    "first_seen": "2026-08-03",
+    "source": "9to5Mac",
+    "title": "Apple Photos in iOS 27 gets camera roll feature it\u2019s long needed"
+  },
   "url:3584c79fbc77b6c97b8b64f614fd04e610f2ff85": {
     "first_seen": "2026-07-29",
     "source": "Ars Technica",
@@ -1128,6 +1153,11 @@
     "first_seen": "2026-06-19",
     "source": "Reddit",
     "title": "Nothing kills CMF Phone 2 Pro\u2019s successor due to rising memory prices"
+  },
+  "url:35904d66ff72a205a8f6c772c63b1e276adb9cc0": {
+    "first_seen": "2026-08-03",
+    "source": "Engadget",
+    "title": "The Anbernic RG SP will be available on August 5"
   },
   "url:35b5cf7be8fcf25d8dfc1fba96a5b105eca864d9": {
     "first_seen": "2026-06-26",
@@ -1343,6 +1373,11 @@
     "first_seen": "2026-08-01",
     "source": "Ars Technica",
     "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission"
+  },
+  "url:3e9781fff5059bb145ce5ce2cef7bd1673c6eb7f": {
+    "first_seen": "2026-08-03",
+    "source": "Hacker News",
+    "title": "LLMs reward expertise"
   },
   "url:3ea32098d2b90ffcf09f708d7538856ecce5adaf": {
     "first_seen": "2026-07-13",
@@ -1739,6 +1774,11 @@
     "source": "Reddit",
     "title": "Freedom Fuel gas prices are rising only days after debut, GasBuddy data indicates"
   },
+  "url:50b25793d8d7c4f318ba7953933f5250c60b0468": {
+    "first_seen": "2026-08-03",
+    "source": "9to5Mac",
+    "title": "John Ternus recruits key Apple hardware VP out of retirement ahead of CEO transition"
+  },
   "url:50dd02f715b41fa1dd95208863862797491c2a25": {
     "first_seen": "2026-06-25",
     "source": "Hacker News",
@@ -2079,6 +2119,11 @@
     "source": "RTINGS",
     "title": "Dyson Find+Follow Purifier Cool Air Purifier Review"
   },
+  "url:5f36d800516b626539afce58757cf6109d2432c8": {
+    "first_seen": "2026-08-03",
+    "source": "RTINGS",
+    "title": "Bose Lifestyle Ultra Soundbar Soundbar Review"
+  },
   "url:5f729d7764e4d5325d034532f1b310fba9aa35b7": {
     "first_seen": "2026-06-19",
     "source": "RTINGS",
@@ -2414,6 +2459,11 @@
     "source": "The Verge",
     "title": "The Pixel colors might rule this year"
   },
+  "url:6ff715560b9fc3656555b636bd15577810e0670b": {
+    "first_seen": "2026-08-03",
+    "source": "Hacker News",
+    "title": "SQLite Critical CVEs or LLM Slop?"
+  },
   "url:7048b0f9a2cd2370165a416443bb77265396cc22": {
     "first_seen": "2026-07-06",
     "source": "Reddit",
@@ -2503,6 +2553,11 @@
     "first_seen": "2026-06-24",
     "source": "Reddit",
     "title": "DeviceTree-ACPI Hybrid Mode Proposed by Qualcomm ( Hans de Goede ) For Improving Linux Support On current Snapdragon Laptops. ACPI only for future generations"
+  },
+  "url:7241215f2e3d0882dd4234ee746e4462dcdc9f08": {
+    "first_seen": "2026-08-03",
+    "source": "Engadget",
+    "title": "Want the best bass out of your headphones? Here's what to look for"
   },
   "url:7256cbafd31456085f1b70ef07c2380226d95ec1": {
     "first_seen": "2026-06-21",
@@ -2673,6 +2728,11 @@
     "first_seen": "2026-07-27",
     "source": "Engadget",
     "title": "iOS 26.6, macOS 26.6 and the rest are out, addressing security fixes"
+  },
+  "url:7930501cc9800dffead68dc67af9bcb33b805a22": {
+    "first_seen": "2026-08-03",
+    "source": "Ars Technica",
+    "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it"
   },
   "url:795fd22cc6f50ca9c96657d26c500c98ce8b1063": {
     "first_seen": "2026-07-12",
@@ -2974,6 +3034,11 @@
     "source": "RTINGS",
     "title": "Saucony Triumph 24 Running Shoe Review"
   },
+  "url:86dfde7441cceca71a98022c8f1eca27bdb87b5d": {
+    "first_seen": "2026-08-03",
+    "source": "RTINGS",
+    "title": "Samsung Odyssey G80HS S32HG80 Monitor Review"
+  },
   "url:876faa4c9f3a3c615b42eaf4d5f7a4fa15667c49": {
     "first_seen": "2026-06-24",
     "source": "Reddit",
@@ -3023,6 +3088,11 @@
     "first_seen": "2026-07-12",
     "source": "MacRumors",
     "title": "iOS 27 Public Beta Reportedly Available This Week"
+  },
+  "url:8a9c56134c9a0237db9fa3110af097a97e442dd4": {
+    "first_seen": "2026-08-03",
+    "source": "Ars Technica",
+    "title": "Research roundup: 6 cool science stories we almost missed"
   },
   "url:8aaca043e1732142bb4bc3602938a335f0c8d289": {
     "first_seen": "2026-07-30",
@@ -3449,6 +3519,11 @@
     "source": "Ars Technica",
     "title": "South Korea to spend $1T on more memory chip production and humanoid robots"
   },
+  "url:9d0c38894445afa0e10a64145e5d419965990d68": {
+    "first_seen": "2026-08-03",
+    "source": "9to5Mac",
+    "title": "Apple\u2019s contract manufacturing tax breaks in India could be extended to 2041"
+  },
   "url:9d121502a2e7eb15f690ea8af38e556dd13446a6": {
     "first_seen": "2026-07-12",
     "source": "The Verge",
@@ -3749,6 +3824,11 @@
     "source": "RTINGS",
     "title": "XTEP 260X 3.0 Running Shoe Review"
   },
+  "url:ab1222d2662ed15af409c3bf4985705f6c2a6ade": {
+    "first_seen": "2026-08-03",
+    "source": "The Verge",
+    "title": "Samsung\u2019s discounted smart monitor is $349.99, its lowest price yet"
+  },
   "url:ab2a4a46b603ba2e394d9936e0377fa98786ce57": {
     "first_seen": "2026-07-01",
     "source": "The Verge",
@@ -3809,6 +3889,11 @@
     "source": "Reddit",
     "title": "Ukrainians are using VPNs to cause havoc in Russia by changing fuel station statuses on maps in a bid to cause chaos and confusion"
   },
+  "url:ae167b1cfac77bf6b61f8da3b6337d1902c10a4c": {
+    "first_seen": "2026-08-03",
+    "source": "MacRumors",
+    "title": "Apple Will Judge Your Mustache Authenticity at Its Ted Lasso Look-Alike Contest"
+  },
   "url:ae77fa82067eba01ebb7655f3ee4fa0cff399873": {
     "first_seen": "2026-06-30",
     "source": "Engadget",
@@ -3848,6 +3933,11 @@
     "first_seen": "2026-07-09",
     "source": "Ars Technica",
     "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs"
+  },
+  "url:b05d53997569ffbcc499f08dd85030872fb59c6c": {
+    "first_seen": "2026-08-03",
+    "source": "9to5Mac",
+    "title": "Here\u2019s why Apple Upgrade requires AT&T, T-Mobile, or Verizon for iPhone"
   },
   "url:b0b6250b5d11c8bc065da4aa81c33375acde2f86": {
     "first_seen": "2026-06-23",
@@ -4013,6 +4103,11 @@
     "first_seen": "2026-06-19",
     "source": "RTINGS",
     "title": "Hisense UR9SG TV Review"
+  },
+  "url:ba0eba8bc1076819925cbdbc2ba28da488a11439": {
+    "first_seen": "2026-08-03",
+    "source": "Hacker News",
+    "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years"
   },
   "url:baec41bc4fea6ba3724fe3140b704f226d2dec22": {
     "first_seen": "2026-07-08",
@@ -4674,6 +4769,11 @@
     "source": "Reddit",
     "title": "Eminent Domain Could Be Used to Seize Your Land for AI Data Centers"
   },
+  "url:da9ff99a8bf8e94f5ff6256d457d4dfa37028fa7": {
+    "first_seen": "2026-08-03",
+    "source": "Ars Technica",
+    "title": "Lego deploys Hubble Space Telescope as detailed desktop model"
+  },
   "url:db091254f1a19e30b16608fcaa0d928b27dc490a": {
     "first_seen": "2026-07-03",
     "source": "RTINGS",
@@ -5099,6 +5199,11 @@
     "source": "The Verge",
     "title": "America\u2019s greatest idea is still under threat"
   },
+  "url:f1fe3fd0e98c360ae001b32f1d85b7c0997ccf3b": {
+    "first_seen": "2026-08-03",
+    "source": "Hacker News",
+    "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs"
+  },
   "url:f202de911c0ffc832053a78d7d1a93a347081608": {
     "first_seen": "2026-07-22",
     "source": "Hacker News",
@@ -5113,6 +5218,11 @@
     "first_seen": "2026-07-08",
     "source": "Reddit",
     "title": "Cooler Master V4 and V8 3DHP Review: A masterful engineering achievement"
+  },
+  "url:f45fcac20d0910f8a9044bbf827656ac53f5314d": {
+    "first_seen": "2026-08-03",
+    "source": "RTINGS",
+    "title": "Roborock Q7 M5 Robot Vacuum Review"
   },
   "url:f46843f2f4d9264b8e5c99102417d28d73534a6d": {
     "first_seen": "2026-07-18",
@@ -5179,6 +5289,11 @@
     "source": "MacRumors",
     "title": "Apple Loses Another Top Executive to OpenAI"
   },
+  "url:f722651b2117fd1c9c498bd787f03ea949111ffb": {
+    "first_seen": "2026-08-03",
+    "source": "Hacker News",
+    "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video"
+  },
   "url:f746fa6fa075c375d0ef02653ffcde7689ce5257": {
     "first_seen": "2026-06-26",
     "source": "Reddit",
@@ -5223,6 +5338,11 @@
     "first_seen": "2026-07-13",
     "source": "9to5Mac",
     "title": "9to5Mac Daily: July 13, 2026 \u2013 Apple sues OpenAI"
+  },
+  "url:f9e0e5bd92d5809d343b69541e43722db6ec0f95": {
+    "first_seen": "2026-08-03",
+    "source": "The Verge",
+    "title": "Your Fitbit data can now connect directly to Apple Health"
   },
   "url:fa144f1f732f091218a0eca83fee5f4869674b7a": {
     "first_seen": "2026-06-19",
@@ -5303,6 +5423,11 @@
     "first_seen": "2026-06-27",
     "source": "Reddit",
     "title": "Ford Asked AI To Build Better Cars, Then Rehired Humans To Fix What AI Broke"
+  },
+  "url:ff4ecb27326bf416f9c8e6d1b88f06519610ed11": {
+    "first_seen": "2026-08-03",
+    "source": "Hacker News",
+    "title": "Ten advances in mathematics and theoretical computer science"
   },
   "url:ff6dffc13ece56dc2e3200b1601460694c18aab3": {
     "first_seen": "2026-07-14",
