@@ -103,8 +103,45 @@ def blurbify(s, n=200):
     return s
 
 
+# Tracking pixels, avatars and feed-plumbing badges masquerading as article art.
+IMG_IN_BODY_RE = re.compile(r"""<img[^>]+src=["']([^"']+)["']""", re.I)
+IMG_JUNK = ("feedburner", "feeds.wordpress", "gravatar", "avatar", "/emoji/",
+            "pixel", "doubleclick", "stat?", "/comments/", "blank.gif")
+
+
+def _image(elem):
+    """Best-effort thumbnail for a feed entry.
+
+    Prefers the explicit media/enclosure tags (that's the article's own art,
+    and the widest variant wins); falls back to the first sane <img> in the
+    body, which is the only thing The Verge, MacRumors, 9to5Mac and RTINGS
+    expose. Hacker News has no images at all — callers must tolerate "".
+    """
+    candidates = []
+    for c in elem.iter():
+        name = _local(c.tag)
+        if name in ("content", "thumbnail") and c.get("url"):
+            mime = c.get("type", "")
+            if not mime or mime.startswith("image/"):
+                candidates.append((int(c.get("width") or 0), c.get("url")))
+        elif name == "enclosure" and c.get("url") and (c.get("type") or "").startswith("image/"):
+            candidates.append((0, c.get("url")))
+    if candidates:
+        candidates.sort(key=lambda x: x[0], reverse=True)
+        return candidates[0][1]
+
+    body = ""
+    for c in elem.iter():
+        if _local(c.tag) in ("description", "encoded", "content", "summary") and c.text:
+            body += c.text
+    for url in IMG_IN_BODY_RE.findall(body):
+        if not any(bad in url.lower() for bad in IMG_JUNK):
+            return url
+    return ""
+
+
 def parse_feed(xml_bytes, source):
-    """Return normalized items: {title, link, source, date(datetime|None), blurb}."""
+    """Return normalized items: {title, link, source, date(datetime|None), blurb, image}."""
     out = []
     root = ET.fromstring(xml_bytes)
     for e in root.iter():
@@ -117,7 +154,7 @@ def parse_feed(xml_bytes, source):
         desc = _text(e, "description") or _text(e, "summary") or _text(e, "content")
         date = parse_date(_text(e, "pubDate") or _text(e, "published") or _text(e, "updated"))
         out.append({"title": title, "link": link, "source": source,
-                    "date": date, "blurb": blurbify(desc)})
+                    "date": date, "blurb": blurbify(desc), "image": _image(e)})
     return out
 
 
@@ -398,6 +435,7 @@ def push_dashboard(date, sections, failures, total):
                             "source": it["source"],
                             "publishedAt": it["date"].strftime("%Y-%m-%dT%H:%M:%SZ")
                             if it.get("date") else None,
+                            "image": it.get("image", ""),
                         }
                         for it in items
                     ],
