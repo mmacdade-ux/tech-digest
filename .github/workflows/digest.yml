@@ -22,6 +22,8 @@ jobs:
       - name: Build and send digest
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          DASHBOARD_INGEST_TOKEN: ${{ secrets.DASHBOARD_INGEST_TOKEN }}
+          GITHUB_SHA: ${{ github.sha }}
         run: python3 scripts/build_digest.py
 
       - name: Commit archive if changed

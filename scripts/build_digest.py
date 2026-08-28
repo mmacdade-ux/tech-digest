@@ -362,6 +362,68 @@ def send_resend(subject, html):
         raise SystemExit(1)
 
 
+# ---------- morning dashboard ----------
+
+DASHBOARD_INGEST_URL = "https://morning.mmacdade.workers.dev/api/ingest/techdigest"
+
+
+def push_dashboard(date, sections, failures, total):
+    """Mirror the digest onto the Morning dashboard's `techdigest` card.
+
+    Best-effort by design: the email is the product, so a dashboard outage
+    must never fail this workflow. Needs env DASHBOARD_INGEST_TOKEN.
+    """
+    token = os.environ.get("DASHBOARD_INGEST_TOKEN")
+    if not token:
+        print("DASHBOARD_INGEST_TOKEN not set — skipping dashboard push.")
+        return
+
+    envelope = {
+        "feedId": "techdigest",
+        "schemaVersion": 1,
+        "updatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        # daily job — flag it stale if a run is missed entirely
+        "ttlSeconds": 30 * 3600,
+        "generator": "tech-digest@" + os.environ.get("GITHUB_SHA", "local")[:8],
+        "payload": {
+            "date": date,
+            "total": total,
+            "sections": [
+                {
+                    "name": name,
+                    "items": [
+                        {
+                            "title": it["title"],
+                            "link": it["link"],
+                            "source": it["source"],
+                            "publishedAt": it["date"].strftime("%Y-%m-%dT%H:%M:%SZ")
+                            if it.get("date") else None,
+                        }
+                        for it in items
+                    ],
+                }
+                for name, items in sections
+            ],
+            "failures": failures,
+        },
+    }
+
+    req = urllib.request.Request(
+        DASHBOARD_INGEST_URL,
+        data=json.dumps(envelope).encode("utf-8"),
+        # UA matters: the dashboard sits behind Cloudflare, which 403s urllib's
+        # default agent before the request ever reaches the Worker.
+        headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json",
+                 "User-Agent": UA},
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            print("dashboard push:", r.read().decode("utf-8", "replace"))
+    except (urllib.error.URLError, OSError) as ex:
+        print(f"dashboard push FAILED (non-fatal): {ex}", file=sys.stderr)
+
+
 # ---------- main ----------
 
 def main():
@@ -387,6 +449,11 @@ def main():
 
     print(f"{date}: {n} new stories across {len(sections)} sections; "
           f"{len(seen)} tracked; failures={failures or 'none'}")
+
+    # Push before the email short-circuits: the dashboard card should still say
+    # "no new stories today" on a quiet day, rather than showing yesterday's.
+    if not dry_run:
+        push_dashboard(date, sections, failures, n)
 
     if dry_run:
         (ROOT / "email-preview.html").write_text(render_email(date, sections, failures, n))
